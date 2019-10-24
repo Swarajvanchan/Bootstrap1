@@ -1,3 +1,6 @@
 body{
     background: blue;
 }
+.bg-light{
+    background:gray !important;
+}
